@@ -1,4 +1,8 @@
 # Lab3 Repository
+## Виконав
+- Студент групи ІА-22
+- Птачик Роман
+- Варіант: 15 (С11 = 4)
 ## How to launch project
 ### Clone the repository:
 ```
