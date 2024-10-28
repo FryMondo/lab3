@@ -5,7 +5,7 @@
 git clone https://github.com/FryMondo/lab3.git
 ```
 ### Running project
-If you use IDE, open project and run Main.java
+If you use IDE, open project and run ***Main.java***
 ### Running project via console
 Move to the directory
 ```
